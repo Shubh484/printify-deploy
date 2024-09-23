@@ -1,0 +1,7 @@
+.green-color {
+  background-color: var(--color-green);
+}
+.hero-font {
+  font-size: 56px;
+  font-family: sans-serif;
+}
